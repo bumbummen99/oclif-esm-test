@@ -4,7 +4,7 @@
   "description": "oclif example Hello World CLI",
   "author": "Patrick @bumbummen99",
   "bin": {
-    "mynewcli": "./bin/run"
+    "mynewcli": "./bin/run.js"
   },
   "homepage": "https://github.com/bumbummen99/oclif-esm-test",
   "license": "MIT",
